@@ -1,12 +1,7 @@
 .App {
   text-align: center;
-  text-shadow: 4px 4px 2px rgb(196, 175, 175);
-  color: black;
-  background-image: linear-gradient(
-    to bottom right,
-    rgb(233, 86, 86),
-    rgb(151, 241, 133)
-  );
+  text-shadow: 4px 4px 2px rgb(233, 85, 85);
+  color: white;
 }
 
 .teamList {
@@ -16,7 +11,7 @@
 
   .teamMember {
     padding: 10px;
-    background-color: rgb(57, 160, 92);
+    background-image: linear-gradient(rgb(3, 63, 3), rgb(5, 212, 5));
     width: 300px;
     border: 1px solid rgb(30, 177, 30);
     margin: 20px auto;
