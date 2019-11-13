@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  text-shadow: 4px 4px 2px black;
+  color: rgb(214, 214, 214);
+}
+
+.teamList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+
+  .teamMember {
+    padding: 10px;
+    background-color: rgb(57, 160, 92);
+    width: 300px;
+    border: 1px solid rgb(30, 177, 30);
+    margin: 20px auto;
+    text-shadow: 2px 2px 4px red;
+    color: whitesmoke;
+  }
+}
+
+.formItem {
+  margin: 10px 15px;
+  padding: 0px 15px;
+}
