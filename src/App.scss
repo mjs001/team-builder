@@ -1,7 +1,12 @@
 .App {
   text-align: center;
-  text-shadow: 4px 4px 2px black;
-  color: rgb(214, 214, 214);
+  text-shadow: 4px 4px 2px rgb(196, 175, 175);
+  color: black;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(233, 86, 86),
+    rgb(151, 241, 133)
+  );
 }
 
 .teamList {
